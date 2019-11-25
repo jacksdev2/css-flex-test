@@ -1,6 +1,6 @@
 .container > div {
     padding: 10px;
-    text-align: center;
+    text-align: top;
     font-size: 2em;
     color: #ffeead;
   }
@@ -21,4 +21,3 @@
   .container > div:nth-child(3) {
     background-color: #88d8b0;
   }
-  
